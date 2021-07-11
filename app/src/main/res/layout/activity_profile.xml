@@ -304,7 +304,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:orientation="horizontal"
-            android:paddingLeft="20dp">
+            android:paddingLe="20dp">
 
             <ImageView
                 android:layout_width="15dp"
@@ -319,8 +319,8 @@
                 android:inputType="numberPassword"
                 android:paddingLeft="20dp"
                 android:text="1234567890"
-                android:textStyle="bold"
-                android:textColor="@color/blue"/>
+                android:textColor="@color/blue"
+                android:textStyle="bold" />
         </LinearLayout>
     </LinearLayout>
 
